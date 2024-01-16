@@ -1,0 +1,28 @@
+StudentID,Name,ID,FingerPrintTemplate,Face_Img
+63243207002-7,Kiattiphum Yatha,1,fingerPrint_001,img_01.jpg
+63243207006-8,Jantima  Kongka,2,fingerPrint_002,img_02.jpg
+63243207008-4,Jeeranan Tata,3,fingerPrint_003,img_03.jpg
+63243207014-2,Nattawat  Rattanamonthian,4,fingerPrint_004,img_04.jpg
+63243207019-1,Thanasin  Muenart ,5,fingerPrint_005,img_05.jpg
+63243207020-9,Thanatchapon  Pimlue ,6,fingerPrint_006,img_06.jpg
+63243207021-7,Thanakorn  Phiophongchan,7,fingerPrint_007,img_07.jpg
+63243207030-8,Peerapon  Cheenpet,8,fingerPrint_008,img_08.jpg
+63243207031-6,Peerapat  Raknak,9,fingerPrint_009,img_09.jpg
+,,10,fingerPrint_010,img_10.jpg
+63243207036-5,Phootanet  Manoi,11,fingerPrint_011,img_11.jpg
+63243207037-3,Ritthisak  Knlapruek,12,fingerPrint_012,img_12.jpg
+63243207041-9,Wirongrong  Suansee,13,fingerPrint_013,img_13.jpg
+63243207043-1,Somchai  Saema,14,fingerPrint_014,img_14.jpg
+63243207044-9,Saharat  Wachiraloesphan,15,fingerPrint_015,img_15.jpg
+63243207056-3,Jaturon Vanakronkun,16,fingerPrint_016,img_16.jpg
+63243207058-9,Chaiyanan  Damsanit,17,fingerPrint_017,img_17.jpg
+63243207059-7,Chanchai  Bungun ,18,fingerPrint_018,img_18.jpg
+63243207060-5,Chanon  Bunrod,19,fingerPrint_019,img_19.jpg
+63243207061-3,Natcha  Khureyai,20,fingerPrint_020,img_20.jpg
+63243207073-8,Paradon  Khamenkit ,21,fingerPrint_021,img_21.jpg
+63243207076-1,Sawit  Meeson,22,fingerPrint_022,img_22.jpg
+63243207079-5,Kannika  Mueangluang,23,fingerPrint_023,img_23.jpg
+63243207080-3,Kanthida  Hanmuangjai,24,fingerPrint_024,img_24.jpg
+63243207081-1,Kittiphan  Khanthasikam,25,fingerPrint_025,img_25.jpg
+63243207086-0,Phiraphon  Sukkasem,26,fingerPrint_026,img_26.jpg
+63243207085-2,Prattana  Lekpaijit,27,fingerPrint_027,img_27.jpg
